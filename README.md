@@ -10,7 +10,7 @@
 
 ## 📜 | Resumo dos Exercícios
 
-- 1 | Na atividade_01, era necessário receber 3 notas de um aluno e cada nta da atividade teria um pesso, assim o software deveria devolver a média desse aluno.
+- 1 | Na atividade_01, era necessário receber 3 notas de um aluno e cada nota da atividade teria um pesso, assim o software deveria devolver a média desse aluno.
 
 - 2 | Na atividade_02, um exercício para treinar IF e ElSE em Python utilizando a questão de Temperatura e Umidade. O programa solicitava a entrada de graus Celsius e a porcentagem da Umidade ao usuário e depedendo do que fosse recebido o software devolvia de acordo com as condições do código.
 
