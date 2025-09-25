@@ -4,7 +4,7 @@
 
 ## 👨🏽‍💻| Estudando
 
--  Todos exercícios propostos pelo professor da Universidade, serão realizados pro mim e publicados aqui. Com intuito de revisar quando necessário e deixar organizado de maneira que não perca esses arquivos.
+-  Todos exercícios propostos pelo professor da Universidade, serão realizados por mim e publicados aqui. Com intuito de revisar quando necessário e deixar organizado de maneira que não perca esses arquivos.
 
 ---
 
